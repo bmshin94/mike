@@ -41,6 +41,12 @@
 - [Frontend unit-test coverage](frontend-testing.md)
 - [Mutation testing and the SSE load harness](test-depth.md)
 
+## Orientation notes
+
+- [Mike 프로젝트 분석 및 활용 가이드 (한국어)](mike-analysis-ko.md) — 저장소
+  구조, 설치 절차, 자주 나오는 질문, 로컬 에이전트 참고 지점, 라이선스 제약과
+  활용/수익화 방향을 정리한 한국어 분석 노트
+
 ## Historical design and investigation notes
 
 These files preserve the context of completed work. They are not current setup
